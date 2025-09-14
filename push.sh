@@ -12,5 +12,5 @@ git commit -m "Solved $PROBLEM_NAME"
 # Push to main branch
 git push origin main
 
-echo "Done !"
+echo "Done"
 
