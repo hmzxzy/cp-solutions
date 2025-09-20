@@ -1,4 +1,5 @@
 #https://codeforces.com/contest/1722/problem/A
+#could've used a set honestly ;(
 import sys
 input = sys.stdin.readline
 def solve():
